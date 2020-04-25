@@ -1,0 +1,9 @@
+Package: com.imkpatil.nooldernotificationstext
+Name: NoOlderNotificationsText
+Depends: mobilesubstrate
+Version: 1.2.3
+Architecture: iphoneos-arm
+Description: Hide that annoying 'No Older Notifications' Text!
+Maintainer: P2KDev <p2kdev@gmail.com>
+Author: P2KDev <p2kdev@gmail.com>
+Section: Tweaks
